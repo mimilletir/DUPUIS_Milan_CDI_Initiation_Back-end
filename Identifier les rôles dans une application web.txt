@@ -1,0 +1,14 @@
+Les technologies utilisées sur le site leonard-de-vinci.net sont : (trouvés à l'aide de wappalyzer.com)
+
+Front-end :
+	language : HTML, CSS, JavaScript
+	bibliothèque JS : jQuery, SweetAlert2, Select2, Dropzone, DataTables, OWL Carousel 
+			tous pour faire du react ou ajouter des éléments spécifiques
+	framework : React pour l'interface
+
+Back-end :
+	language : PHP
+	bibliothèque PHP : SimpleSAMLphp pour authentification
+	communication serveur-client : Cloudflare
+	
+	
